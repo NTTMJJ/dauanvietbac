@@ -29,7 +29,7 @@ const chapters = [
  { title:'Những người làm nên Việt Bắc',image:'anh1.jpg',alt:'Mỗi năm học là một hành trình mới, mở ra từ những dự định, niềm tin và khát vọng. Từ những ngày đầu gặp gỡ đến từng dấu mốc đáng nhớ, thầy và trò Việt Bắc đã cùng nhau viết nên những trang đầu tiên của một năm đầy trải nghiệm. Nhìn lại chặng đường đã qua, mỗi khoảnh khắc đều là một nét vẽ, góp phần tạo nên bức tranh mang tên Việt Bắc.',pageImages:[
   {src:'anh1.jpg',alt:'Thầy cô và học sinh trong buổi sinh hoạt tại trường',caption:'Mỗi người góp một phần vào hành trình chung.'},
   {src:'anh2.jpg',alt:'Các thầy cô Việt Bắc trong hoạt động tập thể',caption:'Những người đồng nghiệp cùng sẻ chia.'},
-  {src:'memory.svg',alt:'Con đường nhỏ qua đồi cỏ và núi xa',caption:'Ký ức được giữ bằng những điều bình dị.'}
+  {src:'anh02.jpg',alt:'Con đường nhỏ qua đồi cỏ và núi xa',caption:'Ký ức được giữ bằng những điều bình dị.'}
  ],blocks:[
   'Nhìn lại một năm, chúng tôi nhớ không chỉ những giờ đứng lớp mà còn nhớ những buổi cùng đồng nghiệp trao đổi công việc, những lần hỗ trợ nhau khi bận rộn và cả những câu chuyện vui sau một ngày dài. Có những sự quan tâm không cần nói thành lời, chỉ là một lời hỏi han, một bàn tay giúp đỡ hay một nụ cười động viên đúng lúc.',
   'Công việc đôi khi có áp lực, hành trình đôi khi có thử thách, nhưng thật may mắn khi bên cạnh luôn có những người cùng chia sẻ và cố gắng. Mỗi người mang một màu sắc riêng, một cách cống hiến riêng, nhưng tất cả đã cùng góp sức tạo nên một Việt Bắc ấm áp và đầy sức sống.']},
@@ -43,7 +43,7 @@ const chapters = [
  {title:'Từ lớp học thân quen',image:'anh4.jpg',alt:'Học sinh chăm chú học tập trong lớp học',caption:'Một mái nhà nhỏ. Một khoảng ấm thật dài.',pageImages:[
   {src:'anh4.jpg',alt:'Thầy cô và học sinh trong buổi sinh hoạt tại trường',caption:'Mỗi người góp một phần vào hành trình chung.'},
   {src:'anh04.jpg',alt:'Các thầy cô Việt Bắc trong hoạt động tập thể',caption:'Những người đồng nghiệp cùng sẻ chia.'},
-  {src:'memory.svg',alt:'Con đường nhỏ qua đồi cỏ và núi xa',caption:'Ký ức được giữ bằng những điều bình dị.'}
+  {src:'anh041.jpg',alt:'Con đường nhỏ qua đồi cỏ và núi xa',caption:'Ký ức được giữ bằng những điều bình dị.'}
  ],blocks:[
   'Có lẽ điều khiến người làm nghề giáo nhớ nhất không phải là những bài giảng đã soạn, mà là những gương mặt thân quen ngồi dưới lớp học. Là ánh mắt chăm chú, những câu trả lời ngập ngừng, những lần học trò tiến bộ và cả những lúc thầy cô phải kiên nhẫn thêm một chút. Mỗi tiết học trôi qua đều để lại một dấu ấn riêng, nhắc chúng tôi rằng sự trưởng thành của học trò chính là món quà giản dị mà quý giá nhất.',
 'Một năm với biết bao giờ học đã qua, nhưng những hình ảnh thân quen vẫn còn nguyên trong ký ức: dáng vẻ say mê bên trang sách, những nụ cười khi hiểu bài, những tiến bộ dù nhỏ bé của học trò. Chúng tôi nhận ra rằng, điều đẹp nhất của mỗi lớp học không chỉ nằm trong những bài giảng, mà còn ở tình cảm và sự trưởng thành được vun đắp qua từng ngày.'
@@ -51,16 +51,16 @@ const chapters = [
  {title:'Sân chơi của ký ức',image:'anh5.jpg',alt:'Học sinh tham gia hoạt động vui chơi và giao lưu',caption:'Gom tiếng suối vào thơ, gửi tình vào con chữ.',verse:true,pageImages:[
   {src:'anh5.jpg',alt:'Học sinh trong buổi hóa trang và sinh hoạt tập thể',caption:'Một sân chơi, thật nhiều tiếng cười.'},
   {src:'anh6.jpg',alt:'Thầy cô và học sinh cùng tham gia hoạt động vui vẻ',caption:'Những khoảnh khắc vui tươi ở lại trong ký ức.'},
-  {src:'poem.svg',alt:'Trăng sáng trên núi rừng và dòng suối trong đêm xanh',caption:'Gom tiếng suối vào thơ, gửi tình vào con chữ.'}
- ],blocks:[
+  {src:'anh051.jpg',alt:'Trăng sáng trên núi rừng và dòng suối trong đêm xanh',caption:'Gom tiếng suối vào thơ, gửi tình vào con chữ.'},
+  {src:'anh052.jpg',alt:'Trăng sáng trên núi rừng và dòng suối trong đêm xanh',caption:'Gom tiếng suối vào thơ, gửi tình vào con chữ.'}
+],blocks:[
   'Ngoài những giờ lên lớp, chúng tôi còn cùng nhau viết nên biết bao kỷ niệm qua những chương trình ngoại khóa, cuộc thi và ngày hội ngập tràn tiếng cười. Đó là những ngày tất bật chuẩn bị, những khoảnh khắc hồi hộp chờ đợi và cả những phút giây vỡ òa trong niềm vui.',
-  ' Mỗi hoạt động mang một màu sắc riêng, mỗi trải nghiệm lại góp thêm một câu chuyện đẹp vào hành trình một năm tại Việt Bắc. Để rồi khi nhìn lại, chúng tôi nhận ra rằng những bài học đáng nhớ đôi khi không chỉ nằm trong trang sách, mà còn được viết nên từ chính những trải nghiệm bên nhau.',
-  'Có lẽ món quà đẹp nhất dành cho người thầy là được chứng kiến học trò từng ngày trưởng thành. Nhìn các con tự tin bước lên sân khấu, rạng rỡ thể hiện bản thân, chúng tôi không khỏi xúc động và tự hào. Những khoảnh khắc ấy sẽ luôn là ký ức đẹp trong hành trình tại Việt Bắc.'
+  ' Mỗi hoạt động mang một màu sắc riêng, mỗi trải nghiệm lại góp thêm một câu chuyện đẹp vào hành trình một năm tại Việt Bắc. Để rồi khi nhìn lại, chúng tôi nhận ra rằng những bài học đáng nhớ đôi khi không chỉ nằm trong trang sách, mà còn được viết nên từ chính những trải nghiệm bên nhau. Có lẽ món quà đẹp nhất dành cho người thầy là được chứng kiến học trò từng ngày trưởng thành. Nhìn các con tự tin bước lên sân khấu, rạng rỡ thể hiện bản thân, chúng tôi không khỏi xúc động và tự hào. Những khoảnh khắc ấy sẽ luôn là ký ức đẹp trong hành trình tại Việt Bắc.'
  ]},
  {title:'Điều chúng ta tự hào',image:'anh7.jpg',alt:'Học sinh Việt Bắc lưu giữ những khoảnh khắc vui bên nhau',caption:'Trang giấy khép lại, miền thương vẫn mở.',pageImages:[
   {src:'anh7.jpg',alt:'Thầy cô và học sinh trong buổi sinh hoạt tại trường',caption:'Mỗi người góp một phần vào hành trình chung.'},
   {src:'anh07.jpg',alt:'Các thầy cô Việt Bắc trong hoạt động tập thể',caption:'Những người đồng nghiệp cùng sẻ chia.'},
-  {src:'memory.svg',alt:'Con đường nhỏ qua đồi cỏ và núi xa',caption:'Ký ức được giữ bằng những điều bình dị.'}
+  {src:'anh071.jpg',alt:'Con đường nhỏ qua đồi cỏ và núi xa',caption:'Ký ức được giữ bằng những điều bình dị.'}
  ],blocks:[
   'Nhìn lại một năm, có biết bao điều khiến chúng tôi tự hào.',
   ' Đó là những thành tích đáng mừng, những nỗ lực được đền đáp và đặc biệt là niềm vui khi các em học sinh lớp 9 đã hoàn thành thật tốt kỳ thi của mình, với tỷ lệ đỗ đạt 100%. Nhưng niềm tự hào của người thầy không chỉ nằm ở những con số.',
@@ -68,7 +68,7 @@ const chapters = [
  {title:'Lời muốn gửi lại',image:'anh8.jpg',alt:'Mặt trời vàng trên dãy núi và con đường hướng về miền xa',caption:'Trang giấy khép lại, miền thương vẫn mở.',pageImages:[
   {src:'anh8.jpg',alt:'Thầy cô và học sinh trong buổi sinh hoạt tại trường',caption:'Mỗi người góp một phần vào hành trình chung.'},
   {src:'anh9.jpg',alt:'Các thầy cô Việt Bắc trong hoạt động tập thể',caption:'Những người đồng nghiệp cùng sẻ chia.'},
-  {src:'memory.svg',alt:'Con đường nhỏ qua đồi cỏ và núi xa',caption:'Ký ức được giữ bằng những điều bình dị.'}
+  {src:'anh09.jpg',alt:'Con đường nhỏ qua đồi cỏ và núi xa',caption:'Ký ức được giữ bằng những điều bình dị.'}
  ],blocks:[
   'Nếu được viết vài dòng cuối cùng cho cuốn nhật ký của một năm, có lẽ chúng tôi muốn dành những dòng ấy cho lời cảm ơn. Cảm ơn những đồng nghiệp đã cùng sẻ chia công việc, cảm ơn các bậc phụ huynh đã tin tưởng và cảm ơn những học trò đã mang đến biết bao niềm vui, thử thách cùng những bài học ý nghĩa. ',
   'Có thể sau này, chúng tôi sẽ không còn nhớ hết từng ngày đã qua, từng công việc đã làm, nhưng chắc chắn vẫn nhớ cảm giác khi cùng nhau hoàn thành một chương trình, niềm vui khi thấy học trò tiến bộ và sự ấm áp của những ngày tháng đồng hành. Một năm khép lại không có nghĩa là câu chuyện kết thúc. Chúng tôi sẽ mang theo những kỷ niệm đẹp ấy để tiếp tục hành trình gieo chữ, vun đắp ước mơ và viết thêm những trang mới cho Việt Bắc.' ]}
@@ -77,9 +77,7 @@ const letterBlocks = [
 'Có những hành trình rồi sẽ đi đến hồi kết, nhưng những kỷ niệm đẹp sẽ còn mãi trong trái tim mỗi người. Một năm nhìn lại, Việt Bắc đã ghi dấu bằng những giờ lên lớp miệt mài, những hoạt động đầy tiếng cười, những thành quả đáng tự hào và hơn hết là sự đồng hành của những con người luôn hết lòng vì giáo dục.',
 'Mỗi thầy cô, mỗi học trò, mỗi khoảnh khắc đều góp phần viết nên câu chuyện mang tên Việt Bắc. Có niềm vui, có thử thách, có những ngày bận rộn, nhưng tất cả đã tạo nên một hành trình thật đáng nhớ.',
 'Cuốn sách hôm nay khép lại không có nghĩa là câu chuyện dừng lại. Phía trước vẫn còn những trang mới đang chờ được viết tiếp, với nhiều ước mơ, khát vọng và những thành công đang đón đợi.',
-'Xin cảm ơn tất cả những người đã góp mặt, đồng hành và để lại dấu ấn trong hành trình ấy. Mong rằng dù thời gian có trôi qua, chúng ta vẫn luôn tự hào khi nhắc về Việt Bắc – nơi lưu giữ những kỷ niệm đẹp, nuôi dưỡng niềm tin và chắp cánh cho những ước mơ.',
-'VIỆT BẮC – NUÔI DƯỠNG NIỀM TIN, NÂNG TẦM TRI THỨC.',
-'Hành trình vẫn tiếp tục, và những trang đẹp nhất có lẽ vẫn còn ở phía trước!',
+'Xin cảm ơn tất cả những người đã góp mặt, đồng hành và để lại dấu ấn trong hành trình ấy. Mong rằng dù thời gian có trôi qua, chúng ta vẫn luôn tự hào khi nhắc về Việt Bắc – nơi lưu giữ những kỷ niệm đẹp, nuôi dưỡng niềm tin và chắp cánh cho những ước mơ.'
 ];
 const $=id=>document.getElementById(id), app=$('app');
 const reduced=matchMedia('(prefers-reduced-motion: reduce)');
